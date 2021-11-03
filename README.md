@@ -1,6 +1,4 @@
-### Hi there 👋
-
-im Akbar 
+### Hi there 👋 Im Akbar
 
 - 🌱 I’m currently learning about front end dev especially <b>vanilla js</b> and <b>vue js</b>
 - 📫 How to reach me: akbarzaiemp@gmail.com
